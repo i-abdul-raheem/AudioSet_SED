@@ -1,2 +1,4 @@
 audioset
-data
+data/audio
+data/X_train.npy
+data/y_train.npy
